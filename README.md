@@ -1,6 +1,6 @@
 #### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=mushketov&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
-
+<br>
 ## Tech Stack
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
