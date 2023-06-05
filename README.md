@@ -12,6 +12,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /><br>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=mushketov)
@@ -19,3 +20,4 @@
 <!--  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> -->
 <!--    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> -->
 <!--    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white" /> -->
+<!-- <img alt="npm" src="https://img.shields.io/badge/-ТЕКСТ БЕЙДЖА-ЦВЕТ ФОНА?style=flat-square&logo=НАЗВАНИЕ ИКОНКИ&logoColor=white" /> -->
