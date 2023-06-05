@@ -17,6 +17,8 @@
 
 ![](https://komarev.com/ghpvc/?username=mushketov)
 
+<!-- https://simpleicons.org/ -->
+<!-- https://shields.io/ -->
 <!--  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> -->
 <!--    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> -->
 <!--    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white" /> -->
